@@ -1,1 +1,3 @@
-# surfeye
+# SurfEye
+
+A personalised surf report.
